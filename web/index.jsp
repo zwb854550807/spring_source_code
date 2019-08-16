@@ -8,9 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>新建maven项目测试</title>
   </head>
   <body>
-  $END$
+    maven web 项目测试
   </body>
 </html>
