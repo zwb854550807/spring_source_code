@@ -8,6 +8,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
+import java.math.BigDecimal;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
@@ -71,13 +72,14 @@ public class JunitTestDay01 {
 
 
     @Test
-    public void test(){
+    public void test() {
         SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
         Calendar cal = Calendar.getInstance();
         cal.setTime(new Date());
         cal.add(Calendar.MONTH, -2);
         String twoMonthAgo = sdf.format(cal.getTime());
-        System.out.println(twoMonthAgo);
+        System.out.println(new BigDecimal(0.02));
+        System.out.println("Integer.SIZE=" + Integer.SIZE);
 
     }
 }
