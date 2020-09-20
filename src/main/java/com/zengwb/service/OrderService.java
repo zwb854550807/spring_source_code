@@ -1,4 +1,4 @@
-package day01.com.cap.service;
+package com.zengwb.service;
 
 import org.springframework.stereotype.Service;
 

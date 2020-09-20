@@ -1,5 +1,4 @@
-import day01.com.cap.config.MainConfigOfLifeCycle;
-import day01.com.cap.data.Car;
+import com.zengwb.config.MainConfigOfLifeCycle;
 import org.junit.Test;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

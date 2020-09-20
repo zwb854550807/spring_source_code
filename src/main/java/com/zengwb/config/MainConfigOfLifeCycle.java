@@ -1,6 +1,6 @@
-package day01.com.cap.config;
+package com.zengwb.config;
 
-import day01.com.cap.data.Car;
+import com.zengwb.data.Car;
 import org.springframework.context.annotation.Bean;
 
 public class MainConfigOfLifeCycle {

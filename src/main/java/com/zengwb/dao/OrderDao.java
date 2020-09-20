@@ -1,4 +1,4 @@
-package day01.com.cap.dao;
+package com.zengwb.dao;
 
 import org.springframework.stereotype.Repository;
 

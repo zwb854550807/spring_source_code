@@ -1,4 +1,4 @@
-package day01.com.cap.data;
+package com.zengwb.data;
 
 public class Person {
 

@@ -1,4 +1,4 @@
-package day01.com.cap.controller;
+package com.zengwb.controller;
 
 import org.springframework.stereotype.Controller;
 

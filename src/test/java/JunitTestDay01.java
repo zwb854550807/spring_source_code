@@ -1,8 +1,8 @@
-import day01.com.cap.config.AnnoConfig;
-import day01.com.cap.config.ComponentScanConfig;
-import day01.com.cap.config.LazyConfig;
-import day01.com.cap.config.ScopeConfig;
-import day01.com.cap.data.Person;
+import com.zengwb.config.AnnoConfig;
+import com.zengwb.config.ComponentScanConfig;
+import com.zengwb.config.LazyConfig;
+import com.zengwb.config.ScopeConfig;
+import com.zengwb.data.Person;
 import org.junit.Test;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

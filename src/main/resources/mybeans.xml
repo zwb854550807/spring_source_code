@@ -3,7 +3,7 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="beanPerson" class="day01.com.cap.data.Person">
+    <bean id="beanPerson" class="com.zengwb.data.Person">
         <property name="name" value="zhangsan"></property>
         <property name="age" value="18"></property>
     </bean>

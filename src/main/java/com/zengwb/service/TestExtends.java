@@ -1,4 +1,4 @@
-package day01.com.cap.service;
+package com.zengwb.service;
 
 public interface TestExtends {
 

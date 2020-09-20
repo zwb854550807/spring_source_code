@@ -1,6 +1,6 @@
-package day01.com.cap.config;
+package com.zengwb.config;
 
-import day01.com.cap.data.Person;
+import com.zengwb.data.Person;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

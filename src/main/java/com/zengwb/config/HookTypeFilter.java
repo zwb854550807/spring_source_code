@@ -1,4 +1,4 @@
-package day01.com.cap.config;
+package com.zengwb.config;
 
 import org.springframework.core.io.Resource;
 import org.springframework.core.type.ClassMetadata;
